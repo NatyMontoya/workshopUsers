@@ -1,0 +1,14 @@
+{
+    "users":[
+       {
+        "name": "John",
+        "lastname": "Smith",
+        "email": "smith@outlook.es",
+        "password": "7890",
+        "image": "https://res.cloudinary.com/dsf9zduuk/image/upload/v1690937019/bala_perymi.png", 
+        "id":1
+
+       }
+    ]
+     
+}
